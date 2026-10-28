@@ -28,3 +28,17 @@ Reference site data for the IUST campus landscape study.
 | `terrain-heatmap-overlay.webp` | Terrain/slope heatmap over a tinted orthophoto; red bands mark steep changes |
 | `dem-elevation-grayscale.png` | Grayscale DEM of the site (lighter = higher) |
 | `contours-red-overlay.webp` | Contour lines (red) over a tinted orthophoto |
+
+### `images/google-earth/`
+
+Oblique 3D screenshots from Google Earth, for visual reference only (not georeferenced).
+
+| File | Description |
+| --- | --- |
+| `ge-01-oblique-highway-behind.webp` | Whole campus with the highway running across the top of the frame |
+| `ge-02-oblique-highway-right.webp` | Whole campus with the highway curving down the right side; octagonal hall at centre right |
+| `ge-03-oblique-main-entrance.webp` | View from the highway side: main entrance road, parking loop and octagonal hall in the foreground |
+| `ge-04-oblique-central-quad.webp` | Closer view of the central quad, red-brick walkways and the dense block of smaller buildings |
+| `ge-05-labelled-buildings.webp` | Same area with Google Earth place labels (see below) |
+
+Buildings named in `ge-05-labelled-buildings.webp`: Rumi Library, Academic Block 1st, School of Business Studies, Health Centre, Dean of Students, Administrative Block, Civil Engineering Department, Geotechnical Engineering Laboratory, Concrete Technology Laboratory, Fluid Mechanics Laboratory, Structural Engineering Laboratory, IUST Library (Kutub Khana), Department of Electronics and Communication, Jamia Masjid IUST.
