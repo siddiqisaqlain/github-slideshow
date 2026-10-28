@@ -40,5 +40,9 @@ Oblique 3D screenshots from Google Earth, for visual reference only (not georefe
 | `ge-03-oblique-main-entrance.webp` | View from the highway side: main entrance road, parking loop and octagonal hall in the foreground |
 | `ge-04-oblique-central-quad.webp` | Closer view of the central quad, red-brick walkways and the dense block of smaller buildings |
 | `ge-05-labelled-buildings.webp` | Same area with Google Earth place labels (see below) |
+| `ge-06-oblique-octagonal-hall-foreground.webp` | Wide oblique with the octagonal hall and entrance parking in the foreground, highway on the right |
+| `ge-07-top-down-wide-context.webp` | Near top-down wide view: campus on the left, highway at far left, surrounding orchards/fields and access road to the east |
+| `ge-08-oblique-north-academic-blocks.webp` | Oblique of the academic blocks along the curved ring road, with the solar-panel field and bus parking at bottom |
+| `ge-09-oblique-campus-and-highway.webp` | Whole campus with the highway down the right edge and town beyond |
 
 Buildings named in `ge-05-labelled-buildings.webp`: Rumi Library, Academic Block 1st, School of Business Studies, Health Centre, Dean of Students, Administrative Block, Civil Engineering Department, Geotechnical Engineering Laboratory, Concrete Technology Laboratory, Fluid Mechanics Laboratory, Structural Engineering Laboratory, IUST Library (Kutub Khana), Department of Electronics and Communication, Jamia Masjid IUST.
